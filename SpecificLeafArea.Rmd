@@ -1,0 +1,23 @@
+Specific leaf area
+===============
+
+Specific leaf area (SLA) is defined as the ratio of leaf area to dry mass.[1][2][3] 
+
+#### Application
+
+Specific leaf area can be used to estimate the reproductive strategy of a particular plant based upon light and moisture (humidity) levels, among other factors.[4] Specific leaf area is one of the most widely accepted key leaf characteristics used during the study of leaf traits.[5][6][7][8] 
+
+#### Changes in response to drought
+
+Drought and water stress have varying effects on specific leaf area. In a variety of species, drought decreases specific leaf area.
+For example, under drought conditions, leaves were, on average, smaller than leaves on control plants.
+
+This is a logical observation, as a relative decrease in surface area would mean that there would be fewer ways for water to be lost. 
+Species with typically low specific leaf area values are geared for the conservation of acquired resources, due to their large dry matter content, high concentrations of cell walls and secondary metabolites, and high leaf and root longevity.[13] 
+
+In some other species, such as Poplar trees, specific leaf area will decrease overall, but there will be an increase in specific leaf area until the leaf has reached its final size. After the final size has been reached, the specific leaf area will then begin decreasing.[14] 
+Other research has shown increasing specific leaf area values in plants under water limitation. 
+
+An example of increasing specific leaf area values as a result of drought stress is the birch tree species.
+
+Birch tree specific leaf area values significantly increased after two dry seasons, though the authors did note that, in typical cases, lowered specific leaf area values are seen as an adaptation to drought stress. 
